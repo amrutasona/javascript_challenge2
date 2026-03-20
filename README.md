@@ -1,1 +1,1 @@
-# javascript_challenge2
+# js_code_snippets
